@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Save to Mendeley",
-	"version": "0.2.1",
+	"version": "0.3",
 	"description": "Add the current URL to Mendeley.",
 	"permissions": ["tabs", "http://*/*", "https://*/*"],
 	"icons": {
